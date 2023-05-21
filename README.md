@@ -1,2 +1,2 @@
 # FallingMarket
- Falling Market 2D score-based mobile game.
+ Falling Market 2D score-based mobile game. In this game, randomly generated objects fall from the sky to the ground. Our character gains different effects by collecting the falling objects. If the character eats garbage, their health decreases. If the character eats steak, their health increases. If the character eats unhealthy objects, they slow down and lose points. If the character eats healthy objects, they speed up and gain points. October/2022
